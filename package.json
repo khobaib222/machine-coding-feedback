@@ -8,7 +8,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "start": "node src/main.js"
+    "snake-ladder": "node snake-ladder/src/main.js"
   },
   "keywords": [],
   "author": "",
