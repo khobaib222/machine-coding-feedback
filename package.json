@@ -8,7 +8,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "snake-ladder": "node snake-ladder/src/main.js"
+    "snake-ladder": "node snake-ladder/src/main.js",
+    "split-wise": "node split-wise/src/main.js"
   },
   "keywords": [],
   "author": "",
